@@ -1,4 +1,3 @@
-Línea para forzar el merge
 # Eco City Tours
 
 ## TFG Ingeniería Informática - Fernando Pisot
